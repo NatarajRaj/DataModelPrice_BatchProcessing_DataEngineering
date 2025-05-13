@@ -1,6 +1,0 @@
-{
-  "url": "jdbc:postgresql://localhost:5432/test_db",
-  "user": "postgres",
-  "password": "Nataraj@123",
-  "driver": "org.postgresql.Driver"
-}
